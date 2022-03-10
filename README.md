@@ -1,47 +1,43 @@
-### 博客地址
+# 为什么要做这个  
+看见别人网站有，感觉挺有趣的，就在网上找了下，然后分享出来<br>
+作者的信息都已经保留了下来。<br>
+欢迎大家访问我的个人主页：<br>
+www.diysay.cn<br>
 
-Github托管的是以前Jekyll版本的源码，现在博客用Hexo重新搭建
-#### 预览
+# mikutap
+   
+![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
 
-* Jekyll版本：EZLippi.github.io
-* Hexo 版本： [www.ezlippi.com](http://www.ezlippi.com)
-* Hexo版本源码：[https://coding.net/u/ezlippi/p/ezlippi/git/tree/coding-pages/](https://coding.net/u/ezlippi/p/ezlippi/git/tree/coding-pages/)
+# 致所有自行编辑修改的人
 
-### 使用Jekyll版本作为博客模板，仅需如下几步：
+请在任何时候**不要移除原作者信息**
 
-1. 首先Fork或Download一份本项目代码。 
-2. 修改_config.yaml及about.md文件，以变更个人信息。 
-3. 修改_include目录下相关文件，以配置网站统计(analytics.html)，网友评论(comment.html)，右侧栏目(categories.html),热门文章(hot.html),友情链接(links.html)等。 
-4. 修改CNAME文件，以绑定自己的域名。 
-5. 删除_posts下文章，换成你自己的。 
-6. 去谷歌自定义搜索新建一个你的搜索引擎，把你的Id替换根目录下search.html我的ID
-7. 最后，push到你自己的博客Repo~ 
+你可以添加你自己名字上去，但是保留原作者信息是最基本的尊重
 
- *^_^*如果愿意，Star本项目一个吧~ 
+谢谢
 
-### 本项目使用了
+如果你用于了推广，广告等用途
 
-1. CNZZ的网站统计服务，官网：http://cnzz.com 
-2. 多说的评论功能，官网:http://duoshuo.com/
-
-### 联系方式
-
-联系方式： Email(ouyanglip@gmail.com) 
+请参见下方许可证要求联系原作者，谢谢
 
 
-### 使用本项目作模板的博客链接
+# 修改说明  
+- 为国内用户适配了合适的CDN
+- 进行了汉化
+- 移除了社交分享按钮
+- 移除了原作者的Google Analysis
+- 移除了页面上部分属性
+- 增加了作品来源说明
 
-* http://www.94geek.com  
-* http://www.haidaoxiaofei.me  
-* http://www.malphi.net  
-* http://happyaround.com  
-* http://tencentlocation.github.io  
-* http://wtaps.github.io 
-* http://maoshu.cc
-* http://x-carto.com/
-* http://flypeom.site
 
-## 2016-02-25更新
+# 版权说明  
+遵循原作者的说明，作品仅用于非盈利的公共使用用途，无需告知  
 
-* 本博客由Jekyl迁移到Hexo,博客地址[ezlippi](www.ezlippi.com),源码托管在了国内的[Coding.net](https://coding.net/u/ezlippi/p/ezlippi/git/tree/coding-pages/)
-* 使用Hexo搭建个人博客具体教程参考[Jekyll迁移到Hexo建立个人博客](http://www.ezlippi.com/blog/2016/02/jekyll-to-hexo.html)
+商业用途请直接联系作者，[详情](https://aidn.jp/about/)
+```
+daniwell@aidn.jp
+※ 本サイトにて公開している楽曲は非営利かつ公序良俗に反しない限り、連絡なしにご自由にお使いいただいて構いません。
+※ エグジットチューンズ管理楽曲（「Nyan Cat」や「ねこみみスイッチ」など）の商用利用につきましては、下記お問い合わせ窓口よりご連絡ください。
+http://exittunes.com/license/
+```
+由于违规使用本repo带来的后果,本分享自不承担结果  
